@@ -16,7 +16,5 @@
 <div class="container">
     <h1>Ma Page HTML avec Bootstrap et jQuery</h1>
 </div>
-
-
 </body>
 </html>
